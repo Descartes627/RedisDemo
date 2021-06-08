@@ -1,2 +1,2 @@
-# redis1
+# RedisDemo
 spring redis简单demo
