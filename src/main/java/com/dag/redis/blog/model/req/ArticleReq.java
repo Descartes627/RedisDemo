@@ -1,4 +1,4 @@
-package com.dag.redis1.model.req;
+package com.dag.redis.blog.model.req;
 
 import lombok.Data;
 

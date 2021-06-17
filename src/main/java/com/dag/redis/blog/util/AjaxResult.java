@@ -1,4 +1,4 @@
-package com.dag.redis1.util;
+package com.dag.redis.blog.util;
 
 import lombok.Data;
 

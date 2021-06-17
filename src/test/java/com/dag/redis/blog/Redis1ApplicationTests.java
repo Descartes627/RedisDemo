@@ -1,7 +1,7 @@
-package com.dag.redis1;
+package com.dag.redis.blog;
 
-import com.dag.redis1.model.req.ArticleReq;
-import com.dag.redis1.service.ArticleService;
+import com.dag.redis.blog.model.req.ArticleReq;
+import com.dag.redis.blog.service.ArticleService;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.HashOperations;

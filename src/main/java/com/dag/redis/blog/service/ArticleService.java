@@ -1,6 +1,6 @@
-package com.dag.redis1.service;
+package com.dag.redis.blog.service;
 
-import com.dag.redis1.model.req.ArticleReq;
+import com.dag.redis.blog.model.req.ArticleReq;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.connection.RedisZSetCommands;
 import org.springframework.data.redis.core.*;

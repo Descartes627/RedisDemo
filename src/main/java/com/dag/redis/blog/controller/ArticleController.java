@@ -1,11 +1,10 @@
-package com.dag.redis1.controller;
+package com.dag.redis.blog.controller;
 
-import com.dag.redis1.model.req.ArticleReq;
-import com.dag.redis1.service.ArticleService;
-import com.dag.redis1.util.AjaxResult;
+import com.dag.redis.blog.model.req.ArticleReq;
+import com.dag.redis.blog.service.ArticleService;
+import com.dag.redis.blog.util.AjaxResult;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;

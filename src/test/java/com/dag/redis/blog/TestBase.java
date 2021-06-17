@@ -1,4 +1,4 @@
-package com.dag.redis1;
+package com.dag.redis.blog;
 
 /**
  * @author: donganguo
