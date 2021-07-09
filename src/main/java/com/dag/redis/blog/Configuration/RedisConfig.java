@@ -19,7 +19,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 import java.time.Duration;
 
 /**
- * <p>StringBoot 封装了  RedisTemplate 对象来操作 Redis， 并在RedisAutoConfiguration下配置的两个RedisTemplate</p>
+ * <p>SpringBoot 封装了  RedisTemplate 对象来操作 Redis， 并在RedisAutoConfiguration下配置的两个RedisTemplate</p>
  * <p>RedisTemplate<Object, Object>: key(Object) --> value(Object)</p>
  * <p>StringRedisTemplate: key(String) --> value(Object)</p>
  * <p>RedisTemplate<Object, Object>, key, value需要实现Serializable接口，redis数据格式比较难懂</p>
